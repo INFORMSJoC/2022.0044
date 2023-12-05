@@ -14,7 +14,7 @@ author = {Eunhye Song and Henry Lam and Russell R. Barton},
 publisher = {INFORMS Journal on Computing},
 title = {A Shrinkage Approach to Improve Direct Bootstrap Resampling under Input Uncertainty},
 year = {2023},
-doi = {https://doi.org/10.1287/ijoc.2022.0044-1.cd},
+doi = {https://doi.org/10.1287/ijoc.2022.0044-1},
 note = {Source codes are available for download at https://github.com/INFORMSJoC/2022.0044-1}
 }
 ```
