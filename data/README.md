@@ -1,3 +1,1 @@
-# Data for replication
-
-Here is the data needed for replicating the experiments. 
+This folder contains the raw data for the results presented in each section as well as associated figures.
