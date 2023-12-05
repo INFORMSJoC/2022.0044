@@ -20,7 +20,7 @@ url = {}
 ```
 
 ## Replicating
-To replicate the results in Sections 6.1--6.3, run the scripts in the 'scripts' folder. They are also duplicates in 'src.'
+To replicate the results in Sections 6.1--6.3, run the scripts in the 'scripts' folder. They are also duplicated in 'src.'
 
 ## Support
 For support in using this software, please email Eunye Song (eunhye.song@isye.gatech.edu).
