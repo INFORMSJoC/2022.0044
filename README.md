@@ -1,8 +1,8 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # Description
-The goal of this software is to demonstrate the shrinkage bootstrap methods for input uncertainty quantification proposed in "A Shrinkage Approach to Improve Direct Bootstrap
-Resampling under Input Uncertainty" by Eunhye Song, Henry Lam, and Russell Barton accepted for publication at INFORMS Journal on Computing.
+The goal of this software is to demonstrate the shrinkage bootstrap methods for input uncertainty quantification proposed in ["A Shrinkage Approach to Improve Direct Bootstrap
+Resampling under Input Uncertainty"](https://doi.org/10.1287/ijoc.2022.0044) by Eunhye Song, Henry Lam, and Russell Barton accepted for publication at INFORMS Journal on Computing.
 
 # Cite
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
